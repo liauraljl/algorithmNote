@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.ljl.note</groupId>
-        <artifactId>leetCodeJava</artifactId>
+        <artifactId>algorithmNote</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
     <artifactId>leetCodeTest</artifactId>
